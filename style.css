@@ -23,11 +23,12 @@ h2{
     padding-left: 2%;
     padding-right: 2%;
 }
+
+
 .half-width-image{
-    width: 40%;
 
+    width: 50%;
 }
-
 
 
 .experience-item{
@@ -88,6 +89,8 @@ font-weight: 700;
     border-image-slice: 1;
 
 }
+
+
 footer p{
 text-align: center;
 }
