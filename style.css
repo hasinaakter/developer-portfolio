@@ -8,7 +8,7 @@ h1{
 .color-tag{
     color: orange;
 }
-section{
+.flex-contrainer{
     display: flex;
     margin-bottom: 150px;
 }
